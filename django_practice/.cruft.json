@@ -1,0 +1,38 @@
+{
+  "template": "git@github.com:cookiecutter/cookiecutter-django.git",
+  "commit": "7d032d730383ed8af6fef130bde2dedc06f9332a",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Django Practice",
+      "project_slug": "django_practice",
+      "description": "Practice and exploration of the Django framework",
+      "author_name": "Kevin Mills",
+      "domain_name": "github.com",
+      "email": "millsks@gmail.com",
+      "version": "0.1.0",
+      "open_source_license": "GPLv3",
+      "username_type": "username",
+      "timezone": "UTC",
+      "windows": "n",
+      "editor": "PyCharm",
+      "use_docker": "n",
+      "postgresql_version": "16",
+      "cloud_provider": "None",
+      "mail_service": "Other SMTP",
+      "use_async": "n",
+      "use_drf": "y",
+      "frontend_pipeline": "None",
+      "use_celery": "n",
+      "use_mailpit": "n",
+      "use_sentry": "n",
+      "use_whitenoise": "y",
+      "use_heroku": "n",
+      "ci_tool": "Github",
+      "keep_local_envs_in_vcs": "y",
+      "debug": "y",
+      "_template": "git@github.com:cookiecutter/cookiecutter-django.git"
+    }
+  },
+  "directory": null
+}
